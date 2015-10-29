@@ -4,5 +4,4 @@
 build/
 dist/
 tmp/
-regexes.yaml
 regexes.json
